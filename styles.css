@@ -2,6 +2,6 @@ a[href^="https://"]
 {
   color: rgb(199, 72, 9);
 }
-p + ul{
+ul + p{
     font-size: 24px;
 }
